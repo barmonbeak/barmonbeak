@@ -1,0 +1,7 @@
+tell1 = "Hello,GitHub!"
+me = "\nI'm Barmonbeak and I'm a student too."
+and = "I'm a Chinese,so I can speak a lot of Chinese,"
+but = "but my English is not very good，so please forgive me."
+after = "I'm just begining to learn python,and I'm not good for it now."
+hobby = "\nMy hobby are computer programming，world history，and ACGN."
+now = "\nNow I have nothing to say，so good bye. "
